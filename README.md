@@ -7,6 +7,6 @@ using Machine Learning models:
 - Multi-Layer Perceptron (MLP)
 
 # How to Run
-1. Open the `crop_recommendation.ipynb` notebook in Google Colab.
+1. Open the `Untitled16.ipynb` notebook in Google Colab.
 2. Upload the dataset (`Crop_recommendation.csv`).
 3. Run all the cells to train the models and get predictions.
